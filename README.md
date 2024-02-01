@@ -45,14 +45,11 @@ vi. Open web app at localhost: 8080/
 vii. Add, Update and Delete records from web app
 
 # 5. Demo:
-## - All Employee UI
-!(C:\Users\Sau & Siddhu\Downloads\SpringBoot-Employee-Management-System-master\SpringBoot-Employee-Management-System-master\src\main\java\images\main_creenshot.png)
+### - All Employee UI
+![main_creenshot](https://github.com/saili-shinde/Employee_Management_System/assets/111215095/fc2b435e-856e-4860-a237-f4393c071954)
 
-## - Add Employee UI
+### - Add Employee UI
+![add_creenshot](https://github.com/saili-shinde/Employee_Management_System/assets/111215095/de6be8d2-b3d3-4c91-a7fd-0940413a88b2)
 
-
-
-## - Update UI
-
-
-
+### - Update UI
+![update_creenshot](https://github.com/saili-shinde/Employee_Management_System/assets/111215095/090e6f28-fd1a-4a41-8aa4-20d87157ac74)
