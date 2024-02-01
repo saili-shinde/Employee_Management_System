@@ -46,7 +46,7 @@ vii. Add, Update and Delete records from web app
 
 # 5. Demo:
 ## - All Employee UI
-![C:\Users\Sau & Siddhu\Downloads\SpringBoot-Employee-Management-System-master\SpringBoot-Employee-Management-System-master\src\main\java\images\main_creenshot.png]
+!(C:\Users\Sau & Siddhu\Downloads\SpringBoot-Employee-Management-System-master\SpringBoot-Employee-Management-System-master\src\main\java\images\main_creenshot.png)
 
 ## - Add Employee UI
 
